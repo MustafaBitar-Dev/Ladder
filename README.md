@@ -26,3 +26,6 @@ Open `ladder.html` in any browser. No install, no server, nothing to set up.
 ## Editing the code
 
 Everything is in one file: `ladder.html`. All HTML, CSS and JS are inline — no dependencies to install, no build step. Open it in a text editor to tweak colors, fonts, or behavior directly.
+
+
+Done using AI :)
