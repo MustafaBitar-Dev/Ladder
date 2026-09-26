@@ -4,7 +4,7 @@ A single-page tool for ranking things by dragging them into place — like a tie
 
 ## Use it
 
-Open `ladder.html` in any browser. No install, no server, nothing to set up.
+Open `index.html` in any browser. No install, no server, nothing to set up.
 
 ## How it works
 
@@ -25,7 +25,7 @@ Open `ladder.html` in any browser. No install, no server, nothing to set up.
 
 ## Editing the code
 
-Everything is in one file: `ladder.html`. All HTML, CSS and JS are inline — no dependencies to install, no build step. Open it in a text editor to tweak colors, fonts, or behavior directly.
+Everything is in one file: `index.html`. All HTML, CSS and JS are inline — no dependencies to install, no build step. Open it in a text editor to tweak colors, fonts, or behavior directly.
 
 
 Done using AI :)
